@@ -3,7 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/2025.10.19-maven-master/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/2025.10.19-maven-master/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/terminal-library/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/terminal-library-jdbc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/terminal-library/src/main/resources" charset="UTF-8" />
   </component>
 </project>
